@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Karina Chaudhary 👋
 
 ### 💻 Computer Science Student | Aspiring Full Stack Developer
