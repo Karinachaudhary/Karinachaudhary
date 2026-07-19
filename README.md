@@ -81,7 +81,7 @@ Medicine management web application.
 <a href="https://www.linkedin.com/in/karina-chaudhary-b783b1306/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bgqc5yccmS5CAxqH2lImRzg%3D%3D">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
 </a>
-<a href="[YOUR_FACEBOOK_URL](https://www.facebook.com/karina.chaudhary.92351/)">
+<a href="https://www.facebook.com/karina.chaudhary.92351/">
   <img src="https://cdn.simpleicons.org/facebook/1877F2" width="40"/>
 </a>
 
