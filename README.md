@@ -23,8 +23,10 @@ Currently, I'm learning **C# and ASP.NET** while continuing to improve my full-s
 ---
 
 ## 🛠️ Tech Stack
+
+### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,php,cs&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,php,cs&perline=8" />
 </p>
 
 ### Frontend
