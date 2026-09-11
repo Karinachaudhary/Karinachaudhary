@@ -32,7 +32,7 @@ I'm especially interested in **full-stack development, backend engineering, APIs
 * 🌱 Deepening my knowledge of **C# and ASP.NET Core**
 * ⚙️ Learning **REST API development and Entity Framework Core**
 * 🧩 Exploring **backend architecture and Clean Architecture**
-* 💻 Building full-stack projects with **React + Node.js**
+* 💻 Building full-stack projects with **React + ASP.NET Core**
 * 🏆 Participating in **hackathons and developer communities**
 * 📚 Continuously improving my problem-solving and software engineering skills
 
