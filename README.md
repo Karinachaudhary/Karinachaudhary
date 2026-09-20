@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karina Chaudhary</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer+in+Progress;React+%7C+Node.js+%7C+MongoDB;C%23+%7C+ASP.NET+Core;Building+Real-World+Projects;Hackathon+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer+in+Progress;React+C%23+%7C+ASP.NET+Core;Building+Real-World+Projects;Hackathon+Enthusiast" />
 </p>
 
 <p align="center">
