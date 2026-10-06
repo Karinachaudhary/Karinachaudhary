@@ -77,40 +77,6 @@ I'm especially interested in **full-stack development, backend engineering, APIs
 
 ---
 
-## 🌟 Featured Projects
-
-### 🥾 Paila — Tourism Discovery Platform
-
-A tourism-focused platform designed to help travelers discover **hidden destinations, local stories, culture, and experiences in Nepal**.
-
-**Focus:** Tourism • Full Stack • AI • Maps • User Experience
-
----
-
-### ♻️ EcoSnap — AI Waste Segregation Assistant
-
-An AI-powered application that helps users **identify waste and understand how it should be disposed of**, encouraging responsible waste management.
-
-**Focus:** AI • React • Node.js • MongoDB • APIs
-
----
-
-### 📚 LibraryLynx — Library Management System
-
-A full-stack library management application built with the **MERN stack**, featuring authentication, dashboards, and database-driven functionality.
-
-**Focus:** React • Node.js • Express • MongoDB
-
----
-
-### 💊 MediStore — Medicine Management System
-
-A web application designed to simplify **medicine and inventory management** through a structured digital platform.
-
-**Focus:** Web Development • Backend • Database
-
----
-
 ## 🏆 Experience & Achievements
 
 * 🏅 Participated in **software development hackathons**
