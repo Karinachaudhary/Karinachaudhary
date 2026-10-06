@@ -72,11 +72,6 @@ I'm especially interested in **full-stack development, backend engineering, APIs
 
 ---
 
-
-> Always learning. Always building. Always improving. 🚀
-
----
-
 ## 🏆 Experience & Achievements
 
 * 🏅 Participated in **software development hackathons**
